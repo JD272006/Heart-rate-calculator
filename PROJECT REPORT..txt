@@ -1,0 +1,109 @@
+                                                                                 **********************************PROJECT REPORT*********************************
+
+HEART RATE CALCULATOR
+
+
+
+1. Student Details
+
+Name: Jyotishka Das
+Course: Introduction to problem solving and programing
+University: VIT Bhopal
+Date:22/09/2026
+
+
+
+2. Introduction
+
+
+ The heart rate calculator is a simple python based command line project that calculates a person's heart rate in beats per minute(BPM)
+
+The user enters the values to number of beats and time taken to measures those beats.
+the program then calculate the heart rate using mathematical formula.
+
+
+
+3. Objective
+
+the main objective of the project
+
+. to calculate the BPM
+. to implement a simple mathematical formula using python.
+. to create project using that can be executed directly from the command line.
+
+
+
+4. Technologies used
+
+programming language : python
+interface: command line/ terminal
+
+
+
+5. Formula used
+
+the heart rate calculation:
+BPM = ( no. beats / time in seconds)*60
+
+
+
+6. Working of the project
+
+The program works in the following steps:
+
+. The program starts.
+. The user enter the name.
+. The user enters the number of heart beats.
+. The user enters the measurement time in seconds.
+. The program applies the BPM formula.
+. The calculated heart rate is displayed on the screen
+
+
+
+7. Sample Output
+
+
+enter your name: Rahul
+enter number of beats: 60
+enter time in seconds: 60
+
+heart rate: 60.0 BPM
+
+
+
+8. Advantages
+
+
+. Simple and easy to use.
+. Runs directly from the command line.
+. Does not require external libraries.
+. Provides a quick BPM calculation.
+. Useful for learning basic Python programming.
+
+
+
+9.Limitations
+
+
+. This program depends on the accuracy of the user input.
+. it does not measures using any sensor.
+. it is not intended for medical diagnosis.
+
+
+
+10. Future Improvements
+
+
+It can be improved could be improved by:
+. Adding input validation.
+. Providing heart rate proper information
+. connecting the program to heart rate sensor.
+
+
+
+11. Conclusions
+
+
+The Heart Beat Rate Calculator successfully calculates heart rate in beats per minute using a simple Python program. The project demonstrates basic programming concepts such as user input, arithmetic operations, variables, and output.
+
+This project also provides a practical example of how Python can be used to solve a simple real-world calculation problem.
